@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **sohilareda511@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- **Problem Solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
