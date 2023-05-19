@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sohila Reda</h1>
-<h3 align="center">A pasiionate Data sciencitist</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
