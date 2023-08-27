@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohila Reda</h1>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 📫 How to reach me **sohilareda511@gmail.com**
 
