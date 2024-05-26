@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **sohilareda511@gmail.com**
 
-- **Problem Solving**
+- **interested in Programming,mathematics and Ml**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
