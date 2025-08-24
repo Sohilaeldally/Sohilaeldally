@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sohila Reda</h1>
-<h3 align="center">AI & ML Enthusiast | Data Science | Deep Learning | Mathematics & Programming Lover</h3>
+<h3 align="center">AI & ML Enthusiast | Data Science | Deep Learning </h3>
 
 ---
 
 - 🎓 Computer Science graduate (Faculty of Computers and Information, Mansoura University)  
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**  
-- 🧠 Strong interest in **mathematics, problem-solving, and algorithms**  
-- 💻 Skilled in **Python, C++, C#, SQL, and data-driven technologies**  
+- 🧠 Strong interest in **mathematics, Programming, and algorithms**  
 - 🌱 Currently exploring **NLP, Computer Vision, and AI applications in healthcare & engineering**  
 - 📫 Reach me at: **sohilareda511@gmail.com**
 
