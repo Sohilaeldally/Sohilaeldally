@@ -55,12 +55,3 @@
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohilaredaeldally&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohilaredaeldally&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
