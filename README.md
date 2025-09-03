@@ -60,21 +60,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="40" height="40"/>
-  </a>
+
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </a>
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="power bi" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Tableau_Logo.svg" alt="tableau" width="40" height="40"/>
-  </a>
+ 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
   </a>
@@ -87,39 +80,11 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://codeforces.com/" target="_blank" rel="noreferrer">
-    <img src="https://sta.codeforces.org/s/65067/images/codeforces-icon.png" alt="codeforces" width="40" height="40"/>
-  </a>
-  <a href="https://virtualjudge.org/" target="_blank" rel="noreferrer">
-    <img src="https://virtualjudge.org/img/favicon.png" alt="virtual judge" width="40" height="40"/>
-  </a>
+
   <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
   </a>
 
-  <a href="https://codeforces.com/" target="_blank" rel="noreferrer">
-    <img src="https://sta.codeforces.org/s/65067/images/codeforces-icon.png" alt="codeforces" width="40" height="40"/>
-  </a>
-
-  <!-- Virtual Judge -->
-  <a href="https://virtualjudge.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/VirtualJudgeLogo.png" alt="virtual judge" width="40" height="40"/>
-  </a>
-
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Tableau_Logo.svg" alt="tableau" width="40" height="40"/>
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="power bi" width="40" height="40"/>
-  </a>
-
-  <!-- Google Colab -->
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="40" height="40"/>
-  </a>
 
   
 </p>
