@@ -96,12 +96,35 @@
   <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
   </a>
+
+  <a href="https://codeforces.com/" target="_blank" rel="noreferrer">
+    <img src="https://sta.codeforces.org/s/65067/images/codeforces-icon.png" alt="codeforces" width="40" height="40"/>
+  </a>
+
+  <!-- Virtual Judge -->
+  <a href="https://virtualjudge.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/VirtualJudgeLogo.png" alt="virtual judge" width="40" height="40"/>
+  </a>
+
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Tableau_Logo.svg" alt="tableau" width="40" height="40"/>
+  </a>
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="power bi" width="40" height="40"/>
+  </a>
+
+  <!-- Google Colab -->
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="40" height="40"/>
+  </a>
+
+  
 </p>
 
-<h3 align="left">📚 Knowledge:</h3>
-<p align="left">
-  Linear Algebra, Statistics, Probability, Transformers, NLP, Computer Vision, Machine Learning, Data Science, Deep Learning, Web Scraping
-</p>
+
 
 
 
