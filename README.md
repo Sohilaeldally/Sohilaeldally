@@ -6,7 +6,7 @@
 - 🎓 Computer Science graduate (Faculty of Computers and Information, Mansoura University)  
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**  
 - 🧠 Strong interest in **mathematics, Programming, and algorithms**  
-- 🌱 Currently exploring **NLP, Computer Vision, and AI applications in healthcare & engineering**  
+- 🌱 Currently exploring **NLP, Computer Vision, and AI applications**  
 - 📫 Reach me at: **sohilareda511@gmail.com**
 
 ---
