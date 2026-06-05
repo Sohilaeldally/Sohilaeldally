@@ -1,24 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sohila Reda</h1>
-<h3 align="center">AI & ML Enthusiast | Data Science | Deep Learning </h3>
+## About Me
 
----
+Computer Science graduate from Mansoura University and currently working as an AI Engineer.
 
-- 🎓 Computer Science graduate (Faculty of Computers and Information, Mansoura University)  
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**  
-- 🧠 Strong interest in **mathematics, Programming, and algorithms**  
-- 🌱 Currently exploring **NLP, LLMS and AI applications**  
-- 📫 Reach me at: **sohilareda511@gmail.com**
+Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI. I enjoy building end-to-end AI solutions, from data preprocessing and model development to deployment and workflow automation.
 
----
+My experience includes machine learning applications, computer vision systems, NLP projects, LLM-powered applications, RAG pipelines, and AI automation workflows. I am continuously exploring modern AI technologies, agentic systems, and scalable AI solutions for real-world problems.
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sohileeldally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sohilaredaeldally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-</p>
+## 🛠️ Tools & Technologies
 
----
+### 🧠 AI & Machine Learning
 
+Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras, XGBoost, Feature Engineering, Model Evaluation, Hyperparameter Tuning
+
+### 🤖 Generative AI & NLP
+
+Transformers, Hugging Face, LangChain, RAG, LLMs, Prompt Engineering, NLTK
+
+### 👁️ Computer Vision
+
+OpenCV, YOLO, Image Segmentation, Object Detection, Image Processing
+
+### 🧩 Agentic AI & Automation
+
+LangGraph, AI Agents, Multi-Agent Systems, n8n, Workflow Automation
+
+### 🌐 Backend & APIs
+
+FastAPI
+
+### 💾 Databases
+
+PostgreSQL, MySQL
+
+### ⚙️ Deployment & DevOps
+
+Docker, Git, GitHub
+
+### 📊 Data Analysis & Visualization
+
+Matplotlib, Seaborn, Plotly, Streamlit, Power BI, Tableau
+
+### 💻 Computer Science Fundamentals
+
+Data Structures, Algorithms, OOP, Problem Solving
 
 
   
