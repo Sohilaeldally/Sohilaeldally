@@ -2,9 +2,12 @@
 
 Computer Science graduate from Mansoura University and currently working as an AI Engineer.
 
-Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI. I enjoy building end-to-end AI solutions, from data preprocessing and model development to deployment and workflow automation.
+Passionate about Data Science, Artificial Intelligence, and building intelligent systems that solve real-world problems. I enjoy working across the entire data lifecycle, from data collection, cleaning, preprocessing, and exploratory data analysis to feature engineering, model development, evaluation, deployment, and automation.
 
-My experience includes machine learning applications, computer vision systems, NLP projects, LLM-powered applications, RAG pipelines, and AI automation workflows. I am continuously exploring modern AI technologies, agentic systems, and scalable AI solutions for real-world problems.
+My interests span Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Large Language Models (LLMs), and Generative AI. I enjoy transforming data into actionable insights and developing AI-powered applications that deliver practical business value.
+
+I am continuously exploring modern AI technologies, agentic systems, workflow automation, and scalable AI solutions while strengthening my foundations in data science, statistics, mathematics, and software engineering.
+
 
 ## 🛠️ Tools & Technologies
 
