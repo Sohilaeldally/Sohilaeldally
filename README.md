@@ -17,7 +17,7 @@ Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras, XGBoost, Featur
 
 ### 🤖 Generative AI & NLP
 
-Transformers, LLMS, RAG, Vector Databases, Embeddings, Hugging Face, NLTK
+Transformers, LLMs, RAG, Hugging Face, Embeddings, Vector Databases, NLTK
 
 ### 👁️ Computer Vision
 
@@ -25,7 +25,7 @@ OpenCV, YOLO, Image Segmentation, Object Detection, Image Processing
 
 ### 🧩 Agentic AI & Automation
 
-LangGraph, Lang Chain, Prompt Engineering, AI Agents, Multi-Agent Systems, n8n, Workflow Automation
+LangChain, LangGraph, AI Agents, Multi-Agent Systems, Prompt Engineering, n8n, Workflow Automation
 
 ### 🌐 Backend & APIs
 
@@ -33,11 +33,11 @@ FastAPI, Pydantic
 
 ### 💾 Databases
 
-PostgreSQL, MySQL, pgvector, Reduis
+PostgreSQL, MySQL, pgvector, Redis
 
 ### ⚙️ Deployment & DevOps
 
-Docker, Git, GitHub
+Docker, Linux, Nginx, Git, GitHub
 
 ### 📊 Data Analysis & Visualization
 
@@ -47,10 +47,7 @@ Matplotlib, Seaborn, Plotly, Streamlit, Power BI, Tableau
 
 Data Structures, Algorithms, OOP, Problem Solving
 
-### Deployment
 
-Linux
-  
 </p>
 
 
