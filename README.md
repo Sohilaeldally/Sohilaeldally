@@ -17,7 +17,7 @@ Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras, XGBoost, Featur
 
 ### 🤖 Generative AI & NLP
 
-Transformers, LLMS, RAG, Vector DataBase, Embeddings, Hugging Face, NLTK
+Transformers, LLMS, RAG, Vector Databases, Embeddings, Hugging Face, NLTK
 
 ### 👁️ Computer Vision
 
