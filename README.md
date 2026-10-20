@@ -37,7 +37,7 @@ PostgreSQL, MySQL, pgvector, Redis
 
 ### ⚙️ Deployment & DevOps
 
-Docker, Linux, Nginx, Git, GitHub
+Docker, Linux, Git, GitHub
 
 ### 📊 Data Analysis & Visualization
 
